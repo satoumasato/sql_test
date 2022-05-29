@@ -1,0 +1,4 @@
+<?php
+define('PI',2); //定数で円周率を設定
+
+$radius=$_POST['radius'];

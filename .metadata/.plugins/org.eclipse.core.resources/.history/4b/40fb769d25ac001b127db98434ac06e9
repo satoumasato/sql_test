@@ -1,0 +1,14 @@
+
+
+<?php
+
+//array関数を使ってトランプの画像名を配列で作成
+
+$cards = array("JK.png", "o1.png", "02,png", "03.png", "04.png", "05.png");
+
+$num = 3;
+ <HTML>
+ echo '<img src="..cards/" $cards[$num] >';
+ ?>
+ 
+ </HTML>

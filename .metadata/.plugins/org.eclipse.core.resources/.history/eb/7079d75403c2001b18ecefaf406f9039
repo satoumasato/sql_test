@@ -1,0 +1,14 @@
+<?php
+$score = $_POST["score"];
+
+if($score<0||$score>100){
+    $mag = "０〜100までの間で点数を入力してください！";   
+}
+else{
+    if($score>=80){
+        if($score==100){
+           $msg = "あなたは満点で合格しました。<br>\n";
+        }
+    
+    
+}

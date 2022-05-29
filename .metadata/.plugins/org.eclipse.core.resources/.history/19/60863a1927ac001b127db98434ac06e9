@@ -1,0 +1,16 @@
+ <HTML>
+ 
+ <?php
+	
+	カード画面表示<br>
+	//array関数を使ってトランプの画像名を配列で作成
+
+$cards = array("JK.png", "o1.png", "02,png", "03.png", "04.png", "05.png");
+
+$no = 2;
+ 
+ 
+ echo '<img src="../',cards[$no],'">';
+ ?>
+	
+</HTML>

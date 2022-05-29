@@ -1,0 +1,24 @@
+<?php 
+$month =$_POST["month"];
+
+
+switch($month){
+    
+    case 3:     
+    case 4:
+    case 5:
+        $msg=$month."月は春です。";
+        breck;
+    case 6:
+    case 7:
+    case 8:
+        $msg =$month."月は夏です。";
+        
+}
+?>
+
+<html>
+<body>
+あなたの今日の運勢は<?=$msg."(".$num.")"?>です。
+</body>
+</html>

@@ -1,0 +1,31 @@
+<?php 
+$month =$_POST["month"];
+
+
+switch($month){
+    case 1:
+        $msg= "中吉";
+        breck;
+    case 2:
+        $msg= "小吉";
+        breck;
+    case 3:
+        $msg ="吉";
+        breck;
+    case 4:
+        $msg = "凶";
+        breck;
+    case 5:
+        $msg = "大凶";
+      breck;
+    default:
+        $msg = "大吉";
+        breck;
+}
+?>
+
+<html>
+<body>
+あなたの今日の運勢は<?=$msg."(".$num.")"?>です。
+</body>
+</html>

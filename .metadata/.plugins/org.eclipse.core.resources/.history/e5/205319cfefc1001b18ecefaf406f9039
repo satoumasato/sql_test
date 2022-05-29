@@ -1,0 +1,12 @@
+<?php
+define("CITY","新宿");
+?>
+
+<html>
+<body>
+$num=<?=$num?><br>
+(int)$num=<?=(int)$num?><br>
+$num=<?=$num?><br>
+</body>
+
+</html>

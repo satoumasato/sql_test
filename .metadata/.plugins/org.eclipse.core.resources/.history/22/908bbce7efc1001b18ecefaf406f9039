@@ -1,0 +1,10 @@
+<?php
+define("CITY","新宿");
+?>
+
+<html>
+<body>
+日本で一番乗車数が多い駅は<?="CITY"?>です。;
+</body>
+
+</html>

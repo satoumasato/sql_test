@@ -1,0 +1,8 @@
+<html>
+<form action="magic2.php" method="POST">
+<input type ="text" name = "score" value =""><br>
+<input type ="submit" value = "送信">
+</form>
+
+
+</html>

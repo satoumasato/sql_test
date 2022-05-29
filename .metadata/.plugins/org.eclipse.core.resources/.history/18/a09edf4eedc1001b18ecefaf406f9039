@@ -1,0 +1,12 @@
+<?php
+$num=2.2360679;
+?>
+
+<html>
+<body>
+$num=<?=$num?><br>
+(int)$num=<?=(int)$num?><br>
+$num=<?$num?><br>
+</body>
+
+</html>

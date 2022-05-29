@@ -1,0 +1,14 @@
+<html>
+<body>
+<?php 
+$i =1;
+while($i<=3){
+    echo $1."回目のループです<br>\n";
+}
+?>
+</body>
+
+
+
+
+</html>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="searchPage">
+		<item key="historySize" value="1"/>
+		<list key="nodenames">
+		</list>
+		<section name="history0">
+			<item key="pattern" value="myproj_super_intro"/>
+			<item key="scope" value="2"/>
+		</section>
+	</section>
+</section>
